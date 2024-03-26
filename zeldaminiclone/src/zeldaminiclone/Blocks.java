@@ -12,7 +12,7 @@ public class Blocks extends Rectangle {
 	
 	
 	public void render(Graphics g) {
-		g.setColor(Color.GREEN);
+		g.setColor(Color.RED);
 		g.fillRect(x,y,width,height);
 		g.setColor(Color.black);
 		g.drawRect(x, y, width, height);
