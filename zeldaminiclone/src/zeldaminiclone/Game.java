@@ -25,6 +25,7 @@ public class Game extends Canvas implements Runnable, KeyListener  {
 		this.addKeyListener(this);
 		//CRIANDO NOVA DIMENSAO
 		this.setPreferredSize(new Dimension(WIDHT,HEIGHT));
+		new Spritesheet();
 		
 		player = new Player(32,32);
 		world = new World();
