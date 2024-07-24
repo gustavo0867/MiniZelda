@@ -1,6 +1,6 @@
 # MiniZelda Java Game
 
-Bem-vindo ao repositório do MiniZelda, um jogo em desenvolvimento inspirado no clássico MiniZelda. Este projeto é desenvolvido em Java e visa criar uma experiência de jogo semelhante ao estilo retrô dos jogos Zelda.
+Bem-vindo ao repositório do MiniZelda, um jogo em desenvolvimento inspirado no clássico Zelda. Este projeto é desenvolvido em Java e visa criar uma experiência de jogo semelhante ao estilo retrô dos jogos Zelda.
 
 ## Sobre o Projeto
 
